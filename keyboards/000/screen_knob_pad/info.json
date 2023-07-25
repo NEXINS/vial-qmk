@@ -1,0 +1,10 @@
+{
+    "keyboard_name": "ScreenKnobPad",
+    "manufacturer": "NEXINS",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0005",
+        "device_version": "1.0.0"
+    }
+
+}

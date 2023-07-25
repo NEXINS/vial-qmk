@@ -1,0 +1,37 @@
+{
+  "name": "DualKnobPad",
+  "lighting": "vialrgb",
+  "matrix": {
+    "rows": 2,
+    "cols": 3
+  },
+  "layouts": {
+    "keymap": [
+      [
+        "0,0\n\n\n\n\n\n\n\n\ne",
+        "0,2",
+        "0,1\n\n\n\n\n\n\n\n\ne",
+        {
+            "x": 0.25
+        },
+        "1,0\n\n\n\n\n\n\n\n\ne",
+        "1,2",
+        "1,1\n\n\n\n\n\n\n\n\ne"
+      ],
+      [
+        {
+          "y": 0.5,
+          "x": 0.5
+        },
+        "0,0",
+        "0,1",
+        {
+            "x": 1.25
+        },
+        "1,0",
+        "1,1"
+      ]
+
+    ]
+  }
+}
